@@ -1,0 +1,67 @@
+Variables?
+	They are identifies to store values
+
+Rules?
+	1. Variable name should begin with alphabate a-zA-Z
+	2. Vaiable name should not contain space, special characters
+	3. Variable name if you duplicate then python overright values
+
+Note
+	1. variable name keep short
+
+
+print function in python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	-> print() function used to output result
+	
+		examples:
+		print("Name = Shrenik")
+		
+		print("Value of x = ",x)
+
+	-> input() function used to read values from user
+	
+		exmamples:
+	
+		username = input("Enter Username :")
+		city = input("Enter City Name :")
+		phone = input("Enter Phone Number :")
+
+		Note:
+		input() function defaultly read values in string type. You manually convert to int or float
+	
+
+
+Data Types in Python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+		a. str			: any text is called string.  eg. name, emailid, address, city, gender
+		b. int			: any whole number.   e.g. 19, -45, 100, 0
+		c. float		: any decimal value.	e.g. 9.2, 1.9, 0.39, -1.34
+
+		
+
+		how to print datatype of any variable?
+		--------------------------------------
+		-> call function type() to print datatype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
