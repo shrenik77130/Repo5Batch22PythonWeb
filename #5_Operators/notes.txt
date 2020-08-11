@@ -1,0 +1,28 @@
+Operators
+
+
+    -> Operators are mathamatical symbols used to evaluate and perform complex operations
+    
+    Arithmetic Operators        : + - * / // %
+    Assignment Operators        : = += -= /= //= %=
+    Relational Operators        : > < >= <= == !=
+    Logical Operators           : and or not
+    Bitwise Operators           : >> <<
+    Other                       : is in
+    
+    
+    Forms of Operators  
+    ------------------
+    1. Unary Operators
+            Operators which operate on only one operand is called as "Unary Opearators"
+            e.g.  ++ -- (not in python)
+            
+    2. Binary Operators
+            Operators which operate on two operand is called as "Binary Opearators"
+            e.g. + - * / += -= etc.
+            
+    Operators Priority to solve equetion
+    ------------------------------------
+    ()  / // % * += -=
+            
+
