@@ -24,5 +24,17 @@ Operators
     Operators Priority to solve equetion
     ------------------------------------
     ()  / // % * += -=
+    
+    
+    Remark
+    ------------
+    a=10
+    b=3
+    
+    a/b                 : a division b              which returns quotient
+    a//b                : a integer division b      which returns quotient without precisions
+    a%b                 : a division b              which returns remainder
+    
+    
             
 
