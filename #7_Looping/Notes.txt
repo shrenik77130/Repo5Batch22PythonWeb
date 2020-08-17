@@ -1,0 +1,51 @@
+Looping repeat code for n times
+
+
+While Loop
+-----------
+
+    <initialization>
+    while <condition>:
+        statement(s)
+        statement(s)
+
+
+
+For Loop
+---------
+
+
+    for <variable> in range(start,stop,step):
+        statement(s)
+        statement(s)
+
+
+
+how to run code from command prompt?
+---------------------------------------
+step1: Open Command prompt 
+       Shortcut on Keyboard : Windows + R 
+
+step2: Navigate to working directory
+       e.g.  python programs are in d:/shrenik/
+
+       so, in command prompt
+       type first command --> d:
+       type second commad --> cd shrenik
+
+step3: Run program
+       e.g. python program file name is "sample.py"
+
+       so, in command prompt
+       type command --> python sample.py
+
+       
+
+
+
+
+
+
+
+
+
