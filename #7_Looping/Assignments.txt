@@ -1,0 +1,20 @@
+'''
+Q1. 
+
+A B C D E
+a b c d e
+A B C D E
+a b c d e
+A B C D E
+
+Q2.
+
+        *
+      * *
+    * * *
+  * * * * 
+* * * * *
+
+Q3. 
+WAP to print multiplication table of a number using while loop
+'''
